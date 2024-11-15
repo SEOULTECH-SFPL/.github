@@ -5,5 +5,5 @@ Seoul National University of Science and Technology - Sustainable Food Productio
 
 ## **Projects**  
 
-**[Cultured Meat Antimicrobials](https://github.com/SEOULTECH-SFPL/cultured-meat-antimicrobials)**  
+**1. [Cultured Meat Antimicrobials](https://github.com/SEOULTECH-SFPL/cultured-meat-antimicrobials)**  
 Development of alternative antimicrobial substances for cultured meat production.  
